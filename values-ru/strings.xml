@@ -169,6 +169,6 @@
     <string name="show_ring_panel">Отображать панель звонка</string>
     <string name="bright_calibrate"><b>i</b>: Калибровка максимальной яркости:
 \n\u2022 Установите яркость на максимум, затем сделайте здесь долгое нажатие.</string>
-    <string name="order">Change Panel Order</string>
-    <string name="long_press"><![CDATA[Long press & drag panels to rearrange.]]></string>
+    <string name="order">Изменить порядок панелей/string>
+    <string name="long_press"><![CDATA[Удерживайте и перетащите панель для перестановки.]]></string>
 </resources>
